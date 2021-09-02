@@ -1,0 +1,5 @@
+I have used Kaggle to run this file.
+
+step 1: upload run.py file to kaggle 
+step 2: add the dataset to kaggle input
+step 3: run the file
